@@ -84,15 +84,6 @@ _Guilan University (2013 - 2017)_
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirreza-besmi&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-besmi&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🤝 Let's Build Together!
 
 I'm open to freelance opportunities, technical leadership roles, or collaborative development projects. Let’s turn your business needs into innovative solutions!
