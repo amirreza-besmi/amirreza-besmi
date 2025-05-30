@@ -58,11 +58,11 @@ I’m a **Senior Full-Stack Web Developer** and **Technical Team Lead** with ext
 
 ### 🧩 Cooperation Workflow
 
-✅ Business logic sessions
-✅ Planning implementation & sprints 
-✅ Task assignment & SCRUM/Kanban
-✅ Code reviews & QA testing
-✅ Production deployment  
+✅ Business logic sessions <br />
+✅ Planning implementation & sprints <br />
+✅ Task assignment & SCRUM/Kanban <br />
+✅ Code reviews & QA testing <br />
+✅ Production deployment <br />
 ✅ Performance analytics & feedback loop
 
 ---
@@ -76,10 +76,8 @@ _Guilan University (2013 - 2017)_
 
 ### 📞 Contact Me
 
-📬 amirreza.besmi@gmail.com  
-📱 +98 991 125 1903  
-🔗 [LinkedIn](https://www.linkedin.com/in/amirreza-besmi)  
-💬 [WhatsApp](https://wa.me/989911251903)
+📬 amirreza.besmi@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/amirreza-besmi)
 
 ---
 
